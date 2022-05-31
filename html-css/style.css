@@ -1,0 +1,51 @@
+.subtitle, .skills {
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+body{
+    background-color: #DCDCDC;
+    margin: auto;
+    padding: 8px;
+}
+
+.biog {
+    background-color: #C0C0C0;
+    padding: 0px 5px;
+    border: #C0C0C0 2px solid;
+    border-radius: 10px;
+    margin: 0px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.foto {
+border: black 2px solid;
+border-radius: 50%;
+width: 100px;
+right: 150px;
+display: inline-block;
+vertical-align: top;
+margin-bottom: 15px;
+}
+
+#principal {
+    display: inline-block;
+}
+
+.lista {
+    list-style-type: square;
+}
+
+.contatos li {
+    padding-left: 0px;
+    list-style-type: None;
+    color: black;
+
+}
+
+.contatos li a {
+    color: black;
+    text-decoration: none;
+}
